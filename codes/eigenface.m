@@ -123,6 +123,8 @@ ylim([1e+2 1e+6])
 yticks([1e+2 1e+4 1e+6])
 hold on
 semilogy(diag(S1),'o')
+xlabel('$k$','interpreter','latex')
+ylabel('Singular values $\sigma_k$','interpreter','latex')
 legend('Cropped Images','Uncropped Images','interpreter','latex')
 set(gca,'TickLabelInterpreter', 'tex');
 set(gca,'Fontsize',[12])
