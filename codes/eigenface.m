@@ -1,4 +1,7 @@
 close all;
+% Code for amath584 homework 2
+% Run with 'CroppedYale' and 'yalefaces' in your current directory
+
 % Cropped Images
 Z = 'CroppedYale';
 Y = dir(fullfile(Z,'*'));
