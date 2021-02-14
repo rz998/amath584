@@ -11,4 +11,4 @@ AMATH 569 Advanced Methods for PDEs | Tung | Spring 2021 | no
 AMATH 584 Applied Linear Algebra | Kutz | Autumn 2020 | yes
 AMATH 585 Numerical Analysis of Boundary Value Problems | Greenbaum    | Winter 2021 | no
 AMATH 586 Numerical Analysis of Time Dependent Problems |    | Spring 2021 | no 
-AMATH 515 Optimazation | Aravkin  | Winter 2021 | no 
+AMATH 515 Optimization | Aravkin  | Winter 2021 | no 
