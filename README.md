@@ -9,7 +9,8 @@ AMATH 567 Applied Complex Analysis | Tung  | Autumn 2020  | yes
 AMATH 584 Applied Linear Algebra | Kutz | Autumn 2020 | yes
 AMATH 568 Advanced Methods for ODEs | Kutz | Winter 2021  | yes
 AMATH 585 Numerical Analysis of Boundary Value Problems | Greenbaum | Winter 2021 | yes
-AMATH 515 Optimization | Aravkin  | Winter 2021 | yes
+AMATH 515 Fundamentals of Optimization | Aravkin  | Winter 2021 | yes
 AMATH 569 Advanced Methods for PDEs | Tung | Spring 2021 | no
 AMATH 586 Numerical Analysis of Time Dependent Problems | Trodon | Spring 2021 | no 
+AMATH 569 Mathematical Ecology | Kot | Spring 2021 | no
 
