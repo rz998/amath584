@@ -1,5 +1,7 @@
 # uw_coursework
-This repository contains my homework solutions for courses taken at the University of Washington. **Important: These solutions are my first attempets and I have not corrected them.**
+This repository contains my homework solutions for courses taken at the University of Washington. 
+
+**Important: These solutions are my first attempts and I have not corrected them.**
 I suggest that you look at these after you have worked through the problems by yourself. 
 
 ###  Contents
