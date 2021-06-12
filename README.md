@@ -7,7 +7,7 @@ Course | Instructor | Quarter | Upload
 -|-|-|-
 AMATH 515 Fundamentals of Optimization | Aravkin  | Winter 2021 | yes
 AMATH 535 Mathematical Ecology | Kot | Spring 2021 | yes
-AMATH 561 Intro to Probability and Stochastic Processes | Bozic | Autumn 2020  | yes
+AMATH 561 Probability and Stochastic Processes | Bozic | Autumn 2020  | yes
 AMATH 567 Applied Complex Analysis | Tung  | Autumn 2020  | yes
 AMATH 568 Advanced Methods for ODEs | Kutz | Winter 2021  | yes
 AMATH 569 Advanced Methods for PDEs | Tung | Spring 2021 | yes
